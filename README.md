@@ -1,4 +1,4 @@
-# 🔥 Responsive Portfolio Website Sumo
+# 🔥 Responsive Portfolio Website
 
 
 - Responsive Portfolio Website Using HTML CSS & JavaScript
